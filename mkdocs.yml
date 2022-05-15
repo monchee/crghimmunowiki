@@ -1,17 +1,12 @@
 # Project information
-site_name: Liam's Project
-site_url: https://liamsproject.xyz
-site_author: Liam Beiglari
+site_name: Immunowiki
+site_url: https://beta.immunowiki.com
+site_author: Ramon Yuson
 site_description: >-
-  Neuroimmune Serology Resource Centre
-
-# Repository
-# repo_name: github/liamsproject
-# repo_url: https://github.com/monchee/liamsproject/
-# edit_uri: ""
+  CRGH Department of Immunology
 
 # Copyright
-copyright: Copyright &copy; 2022 Liam Beiglari
+copyright: Copyright &copy; 2022 CRGH Department of Immunology
 
 # Configuration
 theme:
@@ -47,14 +42,14 @@ theme:
     - announce.dismiss
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: teal
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: yellow
-      accent: yellow
+      primary: teal
+      accent: teal
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -63,7 +58,7 @@ theme:
     # code: Roboto Mono
   # favicon: assets/favicon.png
   icon:
-    logo: material/flask
+    logo: material/book-open
 
 # Plugins
 plugins:
@@ -71,15 +66,6 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - minify:
       minify_html: true
-  - tags:
-      tags_file: tags.md
-  - social
-  - git-revision-date-localized:
-      type: timeago
-      enable_creation_date: true
-      exclude:
-        - index.md
-        - tags.md
   - privacy
   
 # Customization
@@ -141,31 +127,3 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - pymdownx.progressbar
-
-# Page tree
-nav:
-  - Home: index.md
-  - Antibodies:
-    - Field Definitions: definitions.md
-    - LGI1: antibodies/lgi1.md
-    - CASPR2: antibodies/caspr2.md
-    - AMPAR1/2: antibodies/ampar.md
-    - GlialCAM: antibodies/glialcam.md
-    - GABAbR: antibodies/gababr.md
-    - GABAaR: antibodies/gabaar.md
-    - GlyR: antibodies/glyr.md
-    - SOX-1: antibodies/sox-1.md
-    - AGNA: antibodies/agna.md
-    - TRIM46: antibodies/trim46.md
-  - Clinical Features: tags.md
-  - About: about.md
-  - Misc:
-    - Test: test-progressbars.md
-    # - Installation: getting-started.md
-    # - Creating your site: creating-your-site.md
-    # - Publishing your site: publishing-your-site.md
-    # - Customization: customization.md
-    # - License: license.md
-    # - Changelog:
-      # - changelog/index.md
-      # - How to upgrade: upgrade.md
