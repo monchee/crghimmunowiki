@@ -1,4 +1,4 @@
-name: liamsproject
+name: immunowiki
 on:
   push:
     branches: 
