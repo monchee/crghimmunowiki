@@ -66,6 +66,8 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - minify:
       minify_html: true
+  - tags
+  - privacy
   
 # Customization
 extra_css:
