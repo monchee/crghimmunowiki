@@ -70,7 +70,7 @@ _FBC, UEC, LFT, Lipids, Glu, 25-Vit D, IgGAM, Lymphocyte subsets, HIV, HBsAg, an
 ---
 
 <figure markdown>
-  ![QR Code](/src/assets/qr/qr-immscreen.png){ width="300" }
+  ![QR Code](/assets/qr/qr-immscreen.png){ width="300" }
 </figure>
 
 ---
