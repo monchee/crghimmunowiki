@@ -65,6 +65,5 @@ tags:
 
 ## Tests
 
-```
-FBC, UEC, LFT, Lipids, Glu, 25-Vit D, IgGAM, Lymphocyte subsets, HIV, HBsAg, anti-HBc, HCV, VZV-IgG, CMV-IgG, EBV-IgG, QuantiFERON gold-TB, Strongyloides-IgG, JCV (if available), Cervical HPV screen, BMD, CXR and TST if required
-```
+_FBC, UEC, LFT, Lipids, Glu, 25-Vit D, IgGAM, Lymphocyte subsets, HIV, HBsAg, anti-HBc, HCV, VZV-IgG, CMV-IgG, EBV-IgG, QuantiFERON gold-TB, Strongyloides-IgG, JCV (if available), Cervical HPV screen, BMD, CXR and TST if required_
+
