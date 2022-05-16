@@ -67,3 +67,9 @@ tags:
 
 _FBC, UEC, LFT, Lipids, Glu, 25-Vit D, IgGAM, Lymphocyte subsets, HIV, HBsAg, anti-HBc, HCV, VZV-IgG, CMV-IgG, EBV-IgG, QuantiFERON gold-TB, Strongyloides-IgG, JCV (if available), Cervical HPV screen, BMD, CXR and TST if required_
 
+---
+<figure markdown>
+  ![QR Code](/src/assets/qr/qr-immscreen.png){ width="300" }
+</figure>
+---
+Updated April 2022
