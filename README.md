@@ -1,6 +1,6 @@
-## Neuroimmune Serology Resource Centre 
+## Immunowiki
 
-**A clinical decision support system.**
+**Online documentation for CRGH Immunology**
 
 Powered by [Material for Mkdocs](https://github.com/squidfunk/mkdocs-material)
 
