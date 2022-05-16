@@ -46,6 +46,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://immunowiki.com/assets/qr/i/</loc>
+         <lastmod>2022-05-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://immunowiki.com/checklists/clinical-allergen-challenge/</loc>
          <lastmod>2022-05-16</lastmod>
          <changefreq>daily</changefreq>
