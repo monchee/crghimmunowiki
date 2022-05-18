@@ -1,7 +1,9 @@
 # Protocol for Pulsed IV Cyclophosphamide Immunosuppression
 
-> Download the PDF version here. [**Protocol for Pulsed IV Cyclophosphamide Immunosuppression - May 2022**](https://immunowiki.com/protocols/protocols-iv-cyclophosphamide-updated-may-2022.pdf)
-{.is-success}
+!!! summary
+
+    Downloadable PDF version: [**Protocol for Pulsed IV Cyclophosphamide Immunosuppression - May 2022**](/assets/pdf/crgh-cyclophosphamide-protocol-may22.pdf)
+
 
 
 ## Pre-treatment checklist
@@ -112,4 +114,10 @@ Blood pressure (preference for early ACEI use), Body weight, Fasting lipids, BSL
 
 ---
 
-**Protocol updated: May 2022**
+<figure markdown>
+  ![QR Code](/assets/qr/qr-cyclo.png){ width="300" }
+</figure>
+
+---
+
+**Updated: May 2022**
