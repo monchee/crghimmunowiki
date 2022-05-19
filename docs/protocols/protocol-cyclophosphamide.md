@@ -16,7 +16,7 @@
 - [ ] Bladder care counselling
 - [ ] Patient receives 
 
-	1.  Patient Information Sheet 
+	1.  [Patient Information Sheet](/patient-information/cyclophosphamide-therapy/)
 	2.  Schedule of appointments (infusion dates and clinic appointments)
 	3.  Corticosteroid weaning strategy (if applicable)
   
@@ -39,7 +39,7 @@
 Form: [CRGH Cyclophosphamide - NIH Protocol 2018](/forms/cyclophosphamide_-_nih_protocol_2018.docx)
 
 ## 2. Cyclophosphamide: EUVAS ANCA-Vasculitis protocol
-*(Ann Intern Med 2009, 150, 670)*
+^*(Ann Intern Med 2009, 150, 670)*^
 
 > Note: the 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of ANCA–associated Vasculitis recommends RTX in favour of cyclophosphamide for the initial treatment of GPA/MPA including severe disease
 {.is-info}
