@@ -5,6 +5,8 @@ published: true
 date: 2020-07-31T05:01:30.512Z
 tags: patient information sheet, urticaria, pis
 editor: markdown
+hide:
+  - path
 ---
 
 > This information has been adapted from [www.uptodate.com](http://www.uptodate.com/) for patients at Concord Hospital.
