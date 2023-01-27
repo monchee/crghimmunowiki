@@ -12,6 +12,9 @@ tags:
 
 ## Upcoming - 3.1
 
+## Current - 3.0b
+- Revert to [Mkdocs Material](https://squidfunk.github.io/mkdocs-material/) unsubscribed from Insiders.
+
 ## Current - 3.0
 > Updated on 17th May 2022
 
