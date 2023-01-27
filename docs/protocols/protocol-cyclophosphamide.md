@@ -1,8 +1,8 @@
 # Protocol for Pulsed IV Cyclophosphamide Immunosuppression
 
-!!! summary
+!!! summary "Downloadable document"
 
-    Downloadable PDF version: [**Protocol for Pulsed IV Cyclophosphamide Immunosuppression - May 2022**](/assets/pdf/crgh-cyclophosphamide-protocol-may22.pdf)
+    PDF: [**Protocol for Pulsed IV Cyclophosphamide Immunosuppression - May 2022**](/assets/pdf/crgh-cyclophosphamide-protocol-may22.pdf)
 
 
 
