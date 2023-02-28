@@ -69,8 +69,6 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - minify:
       minify_html: true
-  - git-revision-date-localized:
-      enable_creation_date: true
   
 # Customization
 extra_css:
