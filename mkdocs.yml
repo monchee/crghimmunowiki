@@ -78,8 +78,6 @@ plugins:
       placeholder: 'another password placeholder'
       decryption_failure_message: 'another informational message when decryption fails'
       encryption_info_message: "another information message when you don't have access !"
-      input_class: 'md-search__form md-search__input'
-      button_class: 'md-search__icon'
   
 # Customization
 extra_css:
