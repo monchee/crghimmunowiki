@@ -74,10 +74,8 @@ plugins:
       remember_password: True
       default_expire_delay: 24
       title_prefix: '[LOCK]'
-      summary: 'another informational message to encrypted content'
-      placeholder: 'another password placeholder'
-      decryption_failure_message: 'another informational message when decryption fails'
-      encryption_info_message: "another information message when you don't have access !"
+      summary: 'This site is locked behind a password'
+      placeholder: 'Type your password here'
   
 # Customization
 extra_css:
