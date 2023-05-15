@@ -76,6 +76,7 @@ plugins:
       title_prefix: '[LOCK]'
       summary: 'This site is locked behind a password'
       placeholder: 'Type your password here'
+      encryption_info_message: "Please enter the required password."
   
 # Customization
 extra_css:
