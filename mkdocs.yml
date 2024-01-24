@@ -3,10 +3,10 @@ site_name: Immunowiki
 site_url: https://immunowiki.com
 site_author: Ramon Yuson
 site_description: >-
-  CRGH Department of Immunology
+  Department of Immunology
 
 # Copyright
-copyright: Copyright &copy; 2023 CRGH Department of Immunology
+copyright: 2023 Department of Immunology
 
 # Configuration
 theme:
@@ -69,14 +69,7 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - minify:
       minify_html: true
-  - encryptcontent:
-      global_password: 'password'
-      remember_password: True
-      default_expire_delay: 24
-      summary: 'This site is locked behind a password'
-      placeholder: 'Type your password here'
-      encryption_info_message: "Please enter the required password."
-  
+      
 # Customization
 extra_css:
   - stylesheets/extra.css
