@@ -1,6 +1,6 @@
 ## Immunowiki
 
-**Online documentation for CRGH Immunology**
+**Online documentation for Immunology**
 
 Powered by [Material for Mkdocs](https://github.com/squidfunk/mkdocs-material)
 
